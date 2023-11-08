@@ -1,16 +1,20 @@
-### Hi there 👋
+### Oie! Eu sou a Leticia Torres S Martins
 
-<!--
-**leticiatmartins/leticiatmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje eu trabalho com front-end
+- 🌱 Estudando Java, React e JavaScript
 
-Here are some ideas to get you started:
+![leticiatmartins GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiatmartins&show_icons=true&theme=moltack)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias usadas no meu dia 
+<div style="display: inline_block"><br/>
+  <img align="center" atl="react5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=FFB6C1"/>
+  <img align="center" atl="Java" src="https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=openjdk&logoColor=black"/>
+  <img align="center" atl="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=FFB6C1"/>
+  <img align="center" atl="node" src="https://img.shields.io/badge/Node.js-FFB6C1?style=for-the-badge&logo=node.js&logoColor=black"/>
+  <img align="center" atl="css" src="https://img.shields.io/badge/CSS-323330?&style=for-the-badge&logo=css3&logoColor=FFB6C1"/>
+  <img align="center" atl="html" src="https://img.shields.io/badge/HTML-FFB6C1?style=for-the-badge&logo=html5&logoColor=black"/>
+  <img align="center" atl="canva" src="https://img.shields.io/badge/Canva-323330.svg?&style=for-the-badge&logo=Canva&logoColor=FFB6C1"/>
+  <img align="center" atl="dribbble" src="https://img.shields.io/badge/Dribbble-FFB6C1?style=for-the-badge&logo=dribbble&logoColor=black"/>
+  <img align="center" atl="figma" src="https://img.shields.io/badge/Figma-323330?style=for-the-badge&logo=figma&logoColor=FFB6C1"/>
+</div>
+
