@@ -5,7 +5,7 @@
 
 ![leticiatmartins GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiatmartins&show_icons=true&theme=moltack)
 
-### Tecnologias usadas no meu dia 
+## Tecnologias usadas no meu dia 
 <div style="display: inline_block"><br/>
   <img align="center" atl="react5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=FFB6C1"/>
   <img align="center" atl="Java" src="https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=openjdk&logoColor=black"/>
