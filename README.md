@@ -1,4 +1,4 @@
-### Oie! Eu sou a Leticia Torres S Martins
+### Oie! Eu sou a Leticia 
 
 - 💻 Hoje eu trabalho com front-end
 - 🌱 Estudando Java, React e JavaScript
