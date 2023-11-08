@@ -1,6 +1,6 @@
 ### Oie! Eu sou a Leticia Torres S Martins
 
-- 🔭 Hoje eu trabalho com front-end
+- 💻 Hoje eu trabalho com front-end
 - 🌱 Estudando Java, React e JavaScript
 
 ![leticiatmartins GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiatmartins&show_icons=true&theme=moltack)
