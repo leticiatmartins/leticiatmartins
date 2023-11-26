@@ -2,6 +2,7 @@
 
 - 💻 Hoje eu trabalho com front-end
 - 🌱 Estudando Java, React e JavaScript
+- 📚 Estudo na UnB Engenharia de Software 
 
 ![leticiatmartins GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiatmartins&show_icons=true&theme=moltack)
 
