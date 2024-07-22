@@ -14,7 +14,6 @@
   <img align="center" atl="node" src="https://img.shields.io/badge/Node.js-FFB6C1?style=for-the-badge&logo=node.js&logoColor=black"/>
   <img align="center" atl="css" src="https://img.shields.io/badge/CSS-323330?&style=for-the-badge&logo=css3&logoColor=FFB6C1"/>
   <img align="center" atl="html" src="https://img.shields.io/badge/HTML-FFB6C1?style=for-the-badge&logo=html5&logoColor=black"/>
-  <img align="center" atl="canva" src="https://img.shields.io/badge/Canva-323330.svg?&style=for-the-badge&logo=Canva&logoColor=FFB6C1"/>
   <img align="center" atl="figma" src="https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma&logoColor=black"/>
 </div>
 
