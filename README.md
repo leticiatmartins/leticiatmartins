@@ -25,10 +25,9 @@
 
 ## 👋 Hi! I'm Leticia!
 
-📚 I am a Software Engineering student at UnB<br/>
-🌎 I am from Brasil<br/>
-💻 I love working with front-end and JavaScript<br/>
-🌱 Currently learning Java, React, JavaScript, and much more!<br/>
+📚 I am a Software Engineering student at the University of Brasília<br/>
+💻 I love working with front-end and databases<br/>
+🌱 Currently studying Java, React, JavaScript, SQL and much more!<br/>
 🐈 I love cats<br/>
 
 ## 📫 Contact
