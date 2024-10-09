@@ -1,8 +1,8 @@
 ## 👋 Oie! Eu sou a Leticia!
 
 📚 Sou estudante de Engenharia de Software na Universidade de Brasília<br/>
-💻 Adoro trabalhar com front-end e JavaScript<br/>
-🌱 Estudando Java, React, JavaScript e muito mais!<br/>
+💻 Adoro trabalhar com front-end e Banco de dados<br/>
+🌱 Estudando Java, React, JavaScript, SQL e  muito mais!<br/>
 🐈 Amo gatinhos<br/>
 
 ## 📈 Estatísticas do GitHub
